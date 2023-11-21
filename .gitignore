@@ -1,0 +1,10 @@
+test.png
+node_modules
+dist
+.cache
+coverage
+yarn-error.log
+.DS_Store
+test/
+assets/
+jest.config.js
